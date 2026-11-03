@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Courier New',monospace" xml:space="preserve" width="985px" height="368px" font-size="15px">
+<style>text, tspan { white-space: pre; font-family: Consolas, 'DejaVu Sans Mono', 'Courier New', monospace; }</style>
+<rect width="985px" height="368px" fill="#0d1117" rx="12" stroke="#30363d" stroke-width="1"/>
+<text x="28" y="44" fill="#6e7681">
+<tspan x="28" y="44">        .----------.</tspan>
+<tspan x="28" y="64">       / .--------. \</tspan>
+<tspan x="28" y="84">      / /          \ \</tspan>
+<tspan x="28" y="104">      | |          | |</tspan>
+<tspan x="28" y="124">      | |          | |</tspan>
+<tspan x="28" y="144">  .---&#x27;-&#x27;----------&#x27;-&#x27;---.</tspan>
+<tspan x="28" y="164">  |                      |</tspan>
+<tspan x="28" y="184">  |         .--.         |</tspan>
+<tspan x="28" y="204">  |        /    \        |</tspan>
+<tspan x="28" y="224">  |        \    /        |</tspan>
+<tspan x="28" y="244">  |         |  |         |</tspan>
+<tspan x="28" y="264">  |         &#x27;--&#x27;         |</tspan>
+<tspan x="28" y="284">  |                      |</tspan>
+<tspan x="28" y="304">  |   [ ACCESS DENIED ]  |</tspan>
+<tspan x="28" y="324">  &#x27;----------------------&#x27;</tspan>
+</text>
+<text x="300" y="34" fill="#c9d1d9">
+<tspan x="300" y="34"><tspan fill="#3fb950">kiwon@sec</tspan><tspan fill="#6e7681"> ------------------------------------------------------</tspan></tspan>
+<tspan x="300" y="54"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">Role:</tspan><tspan fill="#6e7681"> ........................... </tspan><tspan fill="#c9d1d9">Information Security Student</tspan></tspan>
+<tspan x="300" y="74"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">University:</tspan><tspan fill="#6e7681"> ...... </tspan><tspan fill="#c9d1d9">Sangmyung Univ. / Information Security Eng.</tspan></tspan>
+<tspan x="300" y="94"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">Focus:</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#c9d1d9">System Security, Vulnerability Analysis</tspan></tspan>
+<tspan x="300" y="114"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">Goal:</tspan><tspan fill="#6e7681"> ...................................... </tspan><tspan fill="#c9d1d9">Security Engineer</tspan></tspan>
+<tspan x="300" y="154"><tspan fill="#3fb950">$ </tspan><tspan fill="#8b949e">echo </tspan><tspan fill="#c9d1d9">&quot;Secure by default, verify everything.&quot;</tspan></tspan>
+<tspan x="300" y="194"><tspan fill="#6e7681">- Experience ---------------------------------------------------</tspan></tspan>
+<tspan x="300" y="214"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">20XX.03 - Present:</tspan><tspan fill="#6e7681"> ...... </tspan><tspan fill="#c9d1d9">B.S. Info. Security, Sangmyung Univ.</tspan></tspan>
+<tspan x="300" y="234"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">20XX.XX - Present:</tspan><tspan fill="#6e7681"> ...... </tspan><tspan fill="#c9d1d9">Undergrad Researcher, Prof. Kook Lab</tspan></tspan>
+<tspan x="300" y="254"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">2026.10:</tspan><tspan fill="#6e7681"> ............ </tspan><tspan fill="#c9d1d9">Co-author, JISA (LLM-based Attack Graph)</tspan></tspan>
+<tspan x="300" y="294"><tspan fill="#6e7681">- Contact ------------------------------------------------------</tspan></tspan>
+<tspan x="300" y="314"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">Email:</tspan><tspan fill="#6e7681"> ................................ </tspan><tspan fill="#c9d1d9">your.email@example.com</tspan></tspan>
+<tspan x="300" y="334"><tspan fill="#6e7681">. </tspan><tspan fill="#8b949e">Blog:</tspan><tspan fill="#6e7681"> ...................................... </tspan><tspan fill="#c9d1d9">your-blog.example</tspan></tspan>
+</text>
+</svg>
