@@ -1,9 +1,4 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=B87A66&fontColor=FFFFFF&text=Kiwon+Kim&animation=fadeIn&height=150&align=center">
-    <img alt="Kiwon Kim" src="https://capsule-render.vercel.app/api?type=venom&color=B87A66&fontColor=24292F&text=Kiwon+Kim&animation=fadeIn&height=150&align=center">
-  </picture>
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Kiwon+Kim&animation=fadeIn&height=150&align=center)
 
 
 ## 👋 About Me!
