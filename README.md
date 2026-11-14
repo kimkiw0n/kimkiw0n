@@ -39,77 +39,65 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
     <tr>
       <td><strong>OS</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=square&logo=sqlite&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vue.js&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td><strong>Database</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat" />
       </td>
     </tr>
-    <tr>
+        <tr>
       <td><strong>Cloud · Infra</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=square&logo=awsamplify&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fly.io-01012B?style=square&logo=fly.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/VMware-607078?style=square&logo=vmware&logoColor=white" />
-        <img src="https://img.shields.io/badge/Packet_Tracer-0066CC?style=square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
+        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><strong>Tools · DevOps</strong></td>
+      <td><strong>Security</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=square&logo=eclipseide&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=gitlab&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=square&logo=googlecolab&logoColor=white" />
+        <img src="https://img.shields.io/badge/GuardDuty-DD344C?style=flat" />
+        <img src="https://img.shields.io/badge/Sumo_Logic-000099?style=flat&logo=sumologic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grype-2A2A2A?style=flat" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
       </td>
     </tr>
-    <tr>
+        <tr>
+      <td><strong>Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat&logo=ngrok&logoColor=E83E8C" />
+      </td>
+    </tr>
+        <tr>
       <td><strong>Library · Framework</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Numpy-013243?style=square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=square&logo=matplotlib&logoColor=white" />
-        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=square&logo=scipy&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP_Python_SDK-5A67D8?style=flat" />
+        <img src="https://img.shields.io/badge/boto3-FF9900?style=flat" />
+        <img src="https://img.shields.io/badge/Moto-3B4A5A?style=flat" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
       </td>
     </tr>
   </tbody>
