@@ -7,7 +7,15 @@
 
 
 ## 👋 About Me!
-I’m Kiwon, 
+**보안을 이해하는 인프라 엔지니어**를 꿈꾸며, 현재 **클라우드 보안과 인프라 운영**을 깊이 있게 공부하고 있습니다.
+AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니팟, LLM을 활용한 취약점 분석 연구를 통해 **탐지부터 대응까지 이어지는 보안 운영 역량**을 쌓아왔습니다.
+
+저의 최종 목표는 **조직의 보안을 책임지는 보안 담당자**로 성장하여,
+운영 현장을 이해하고 실제로 작동하는 보안 체계를 만드는 것입니다.
+
+문제의 원인을 끝까지 추적하고, 근거로 판단하는 엔지니어가 되고자 합니다.  
+직접 부딪히며 배우고, 배운 것은 기록으로 남겨 다시 실천하는 사람이 되겠습니다!
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:minjong6019@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:minjong6019@naver.com)
