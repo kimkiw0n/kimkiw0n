@@ -111,9 +111,10 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **예시 1** | <img src="" width="200"/> | Python를 활용한 알고리즘 | [🔗]() |
-| 2 | **예시 2** | <img src="" width="200"/> | YOLO와 FasterRCNN을 이용한 <br>데이터 라벨링 및 객체 인식 모델 실습 | [🔗]() |
-| 3 | **예시 3** | <img src="" width="200"/> | 예적금 상품 추천 및 커뮤니티 웹 서비스 | [🔗]() |
+| 1 | **소프트웨어 공급망 보안 분야에서 LLM 기반 공격 그래프 생성을 위한 신뢰성 향상 프레임워크** | <img src="" width="200"/> | Self-Consistency와 Chain-of-Verification을 결합해 <br>LLM 공격 그래프의 재현성과 정확성 향상 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
+| 2 | **MCP 기반의 소프트웨어 구성 요소 분석 및 취약점 관리 시스템 구현** | <img src="" width="200"/> | LLM이 MCP로 Syft·Grype를 호출해 <br>SBOM 생성부터 취약점 대시보드까지 자동화 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
+| 3 | **AWS 클라우드 환경의 침해사고 탐지 및 대응 환경 구축** | <img src="" width="200"/> | GuardDuty·CloudWatch 탐지부터 <br>Lambda·Step Functions 자동 격리와 증거 수집까지 구현 | [🔗](https://github.com/whs-dontdothat-aws/Don-t-Do-That-AWS-GitBook/tree/main), [📘](https://dont-do-that-aws.gitbook.io/introduction) |
+| 4 | **AI Agent 기반 하이브리드 클라우드 허니팟 설계 및 AWS CLI 응답 유사도 평가** | <img src="" width="200"/> | Moto와 LLM Agent를 결합한 <br>AI Agent 기반 하이브리드 클라우드 허니팟 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
 
 ---
 
@@ -121,6 +122,5 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **예시 1** | <img src="" width="200"/> | Python를 활용한 알고리즘 | [🔗]() |
-| 2 | **예시 2** | <img src="" width="200"/> | YOLO와 FasterRCNN을 이용한 <br>데이터 라벨링 및 객체 인식 모델 실습 | [🔗]() |
-| 3 | **예시 3** | <img src="" width="200"/> | 예적금 상품 추천 및 커뮤니티 웹 서비스 | [🔗]() |
+| 1 | **AI 기반 식단 추천 서비스** | <img src="" width="200"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama로 맞춤 식단과 레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
+| 2 | **MyLink** | <img src="" width="200"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link), [🖥️](https://my-link-kiwon.vercel.app/) |
