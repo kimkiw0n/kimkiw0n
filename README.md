@@ -17,8 +17,8 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 직접 부딪히며 배우고, 배운 것은 기록으로 남겨 다시 실천하는 사람이 되겠습니다!
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=square&logo=Gmail&logoColor=white)](mailto:minjong6019@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=square&logo=Naver&logoColor=white)](mailto:minjong6019@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:minjong6019@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=flat&logo=Naver&logoColor=white)](mailto:minjong6019@naver.com)
 
 
 ### 🌟 Experience 🌟
