@@ -123,4 +123,4 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
 | 1 | **AI 기반 식단 추천 서비스** | <img src="" width="200"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama로 맞춤 식단과 레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
-| 2 | **MyLink** | <img src="" width="200"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link), [🖥️](https://my-link-kiwon.vercel.app/) |
+| 2 | **MyLink** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/MyLink_GIF.gif" width="200"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link), [🖥️](https://my-link-kiwon.vercel.app/) |
