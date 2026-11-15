@@ -7,13 +7,13 @@
 
 
 ## 👋 About Me!
-**보안을 이해하는 인프라 엔지니어**를 꿈꾸며, 현재 **클라우드 보안과 인프라 운영**을 깊이 있게 공부하고 있습니다.
-AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니팟, LLM을 활용한 취약점 분석 연구를 통해 **탐지부터 대응까지 이어지는 보안 운영 역량**을 쌓아왔습니다.
+**보안을 이해하는 인프라 엔지니어**를 꿈꾸며, 현재 **클라우드·인프라 운영 및 보안**을 공부하고 있습니다.
+AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니팟, LLM을 활용한 취약점 분석 연구 등 다양한 경험을 통해 **탐지부터 대응까지 이어지는 보안 운영 역량**을 쌓아왔습니다.
 
 저의 최종 목표는 **조직의 보안을 책임지는 보안 담당자**로 성장하여,
 운영 현장을 이해하고 실제로 작동하는 보안 체계를 만드는 것입니다.
 
-문제의 원인을 끝까지 추적하고, 근거로 판단하는 엔지니어가 되고자 합니다.  
+문제의 원인을 끝까지 추적하고, 근거를 바탕으로 판단하겠습니다.  
 직접 부딪히며 배우고, 배운 것은 기록으로 남겨 다시 실천하는 사람이 되겠습니다!
 
 
@@ -111,10 +111,10 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **소프트웨어 공급망 보안 분야에서 LLM 기반 공격 그래프 생성을 위한 신뢰성 향상 프레임워크** | <img src="https://github.com/SMU-ISE/sc-cov-attack-graph/blob/main/docs/figures/architecture.png" width="200"/> | Self-Consistency와 Chain-of-Verification을 결합해 <br>LLM 공격 그래프의 재현성과 정확성 향상 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
-| 2 | **MCP 기반의 소프트웨어 구성 요소 분석 및 취약점 관리 시스템 구현** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="200"/> | LLM이 MCP로 Syft·Grype를 호출해 <br>SBOM 생성부터 취약점 대시보드까지 자동화 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
-| 3 | **AWS 클라우드 환경의 침해사고 탐지 및 대응 환경 구축** | <img src="https://github.com/whs-dontdothat-aws/Don-t-Do-That-AWS-GitBook/blob/main/.gitbook/assets/image%20(1).png" width="200"/> | GuardDuty·CloudWatch 탐지부터 <br>Lambda·Step Functions 자동 격리와 증거 수집까지 구현 | [🔗](https://github.com/whs-dontdothat-aws/Don-t-Do-That-AWS-GitBook/tree/main), [📘](https://dont-do-that-aws.gitbook.io/introduction) |
-| 4 | **AI Agent 기반 하이브리드 클라우드 허니팟 설계 및 AWS CLI 응답 유사도 평가** | <img src="https://github.com/smu-mutualrespect/kiwon_moto-llm-core/blob/sub_main/images/PhantomGate_Workflow.png" width="200"/> | Moto와 LLM Agent를 결합한 <br>AI Agent 기반 하이브리드 클라우드 허니팟 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
+| 1 | **SC-CoV-AttackGraph** | <img src="https://github.com/SMU-ISE/sc-cov-attack-graph/blob/main/docs/figures/architecture.png" width="200"/> | 소프트웨어 공급망 보안 분야에서<br> LLM 기반 공격 그래프 생성을 위한<br> 신뢰성 향상 프레임워크 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
+| 2 | **MCP-SCA-VMS** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="200"/> | MCP 기반의 소프트웨어 구성 요소 분석 <br>및 취약점 관리 시스템 구현 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
+| 3 | **Don’t Do That AWS** | <img src="https://github.com/whs-dontdothat-aws/Don-t-Do-That-AWS-GitBook/blob/main/.gitbook/assets/image%20(1).png" width="200"/> | AWS 클라우드 환경의<br> 침해사고 탐지 및 대응 환경 구축 | [🔗](https://github.com/whs-dontdothat-aws), [📘](https://dont-do-that-aws.gitbook.io/introduction) |
+| 4 | **PhantomGate** | <img src="https://github.com/smu-mutualrespect/kiwon_moto-llm-core/blob/sub_main/images/PhantomGate_Workflow.png" width="200"/> | AI Agent 기반<br> 하이브리드 클라우드 허니팟 설계 <br>및 AWS CLI 응답 유사도 평가 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
 
 ---
 
@@ -122,5 +122,5 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **AI 기반 식단 추천 서비스** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/image.png" width="200"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama로 맞춤 식단과 레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
+| 1 | **맞춤 식단 추천 서비스** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/image.png" width="200"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama AI를 활용해 맞춤 식단과 <br>레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
 | 2 | **MyLink** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/MyLink_GIF.gif" width="200"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link), [🖥️](https://my-link-kiwon.vercel.app/) |
