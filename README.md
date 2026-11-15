@@ -111,10 +111,10 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **SC-CoV-AttackGraph** | <img src="https://github.com/SMU-ISE/sc-cov-attack-graph/blob/main/docs/figures/architecture.png" width="200"/> | 소프트웨어 공급망 보안 분야에서<br> LLM 기반 공격 그래프 생성을 위한<br> 신뢰성 향상 프레임워크 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
-| 2 | **MCP-SCA-VMS** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="200"/> | MCP 기반의 소프트웨어 구성 요소 분석 <br>및 취약점 관리 시스템 구현 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
-| 3 | **Don’t Do That AWS** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/Gitbook_GIF.gif" width="200"/> | AWS 클라우드 환경의<br> 침해사고 탐지 및 대응 환경 구축 | [🔗](https://github.com/whs-dontdothat-aws), [📘](https://dont-do-that-aws.gitbook.io/introduction) |
-| 4 | **PhantomGate** | <img src="https://github.com/smu-mutualrespect/kiwon_moto-llm-core/blob/sub_main/images/PhantomGate_Workflow.png" width="200"/> | AI Agent 기반<br> 하이브리드 클라우드 허니팟 설계 <br>및 AWS CLI 응답 유사도 평가 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
+| 1 | **SC-CoV-AttackGraph** | <img src="https://github.com/SMU-ISE/sc-cov-attack-graph/blob/main/docs/figures/architecture.png" width="300"/> | 소프트웨어 공급망 보안 분야에서<br> LLM 기반 공격 그래프 생성을 위한<br> 신뢰성 향상 프레임워크 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
+| 2 | **MCP-SCA-VMS** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="300"/> | MCP 기반의 소프트웨어 구성 요소 분석 <br>및 취약점 관리 시스템 구현 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
+| 3 | **Don’t Do That AWS** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/Gitbook_GIF.gif" width="300"/> | AWS 클라우드 환경의<br> 침해사고 탐지 및 대응 환경 구축 | [🔗](https://github.com/whs-dontdothat-aws)<br>[📘](https://dont-do-that-aws.gitbook.io/introduction) |
+| 4 | **PhantomGate** | <img src="https://github.com/smu-mutualrespect/kiwon_moto-llm-core/blob/sub_main/images/PhantomGate_Workflow.png" width="300"/> | AI Agent 기반<br> 하이브리드 클라우드 허니팟 설계 <br>및 AWS CLI 응답 유사도 평가 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
 
 ---
 
@@ -122,5 +122,5 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
-| 1 | **맞춤 식단 추천 서비스** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/image.png" width="200"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama AI를 활용해 맞춤 식단과 <br>레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
-| 2 | **MyLink** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/MyLink_GIF.gif" width="200"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link), [🖥️](https://my-link-kiwon.vercel.app/) |
+| 1 | **맞춤 식단 추천 서비스** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/image.png" width="300"/> | 사용자 신체 정보와 목표를 바탕으로 <br>Ollama AI를 활용해 맞춤 식단과 <br>레시피를 추천하는 Flask 웹 서비스 | [🔗](https://github.com/whysocscs/Recommendationservice) |
+| 2 | **MyLink** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/MyLink_GIF.gif" width="300"/> | 여러 활동 링크를 한곳에 모아 관리하는 <br>멀티 링크 프로필 서비스 | [🔗](https://github.com/kimkiw0n/my-link)<br>[🖥️](https://my-link-kiwon.vercel.app/) |
