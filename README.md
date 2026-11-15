@@ -27,6 +27,13 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 
 ---
 
+### 🏆 Awards
+
+> 상명대학교 2025학년도 2학기 캡스톤디자인 경진대회 대상 (2026.02.05)  
+> 대한전기학회 제18회 대학생 작품경진대회 대상 (2025.10.23)
+
+---
+
 ### 📚 Tech Skills
 <table>
   <thead>
@@ -112,7 +119,7 @@ AWS 침해사고 탐지·대응 자동화, AI Agent 기반 클라우드 허니�
 | No | 프로젝트 이름 | 사진 | 주요 내용 | 링크 |
 |---|---|---|---|---|
 | 1 | **SC-CoV-AttackGraph** | <img src="https://github.com/SMU-ISE/sc-cov-attack-graph/blob/main/docs/figures/architecture.png" width="250"/> | 소프트웨어 공급망 보안 분야에서<br> LLM 기반 공격 그래프 생성을 위한<br> 신뢰성 향상 프레임워크 | [🔗](https://github.com/SMU-ISE/sc-cov-attack-graph) |
-| 2 | **MCP-SCA-VMS** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="250"/> | MCP 기반의 소프트웨어 구성 요소 분석 <br>및 취약점 관리 시스템 구현 | [🔗](https://github.com/lhywk/mcp-sca-vms) |
+| 2 | **MCP-SCA-VMS** | <img src="https://github.com/lhywk/mcp-sca-vms/blob/main/images/architecture.png" width="250"/> | MCP 기반의 소프트웨어 구성 요소 분석 <br>및 취약점 관리 시스템 구현 | [🔗](https://github.com/lhywk/mcp-sca-vms)<br><br>[📄](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12434233) |
 | 3 | **Don’t Do That AWS** | <img src="https://github.com/kimkiw0n/readme-assets/blob/main/Gitbook_GIF.gif" width="250"/> | AWS 클라우드 환경의<br> 침해사고 탐지 및 대응 환경 구축 | [🔗](https://github.com/whs-dontdothat-aws)<br><br>[📘](https://dont-do-that-aws.gitbook.io/introduction) |
 | 4 | **PhantomGate** | <img src="https://github.com/smu-mutualrespect/kiwon_moto-llm-core/blob/sub_main/images/PhantomGate_Workflow.png" width="250"/> | AI Agent 기반<br> 하이브리드 클라우드 허니팟 설계 <br>및 AWS CLI 응답 유사도 평가 | [🔗](https://github.com/smu-mutualrespect/kiwon_moto-llm-core/tree/sub_main) |
 
